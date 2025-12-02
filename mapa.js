@@ -61,7 +61,7 @@ const polosData = [
         info: "Centro Universitário SENAI CIMATEC, Av Orlando Gomes, 1845, Piatã, Salvador/BA.<br><br><strong>02/12, às 18h30: Salas 2.1.6 e 2.1.2</strong><br><strong>04/12, às 18h30: Salas 2.1.6 e 2.1.2</strong><br><strong>06/12, às 8h30: Salas 2.1.6 e 2.1.2</strong><br><strong>09/12, às 18h30: Salas 2.1.6 e 2.1.4</strong>"
     },
     {
-        name: "Polo Vitória/ES",
+        name: "Polo Vitóriaa/ES",
         lat: -20.3150,
         lng: -40.3128,
         info: "Avenida Marechal Mascarenhas de Moraes, 2235, Bento Ferreira.<br><br><strong>02/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>04/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>06/12, às 8h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>09/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong>"
@@ -108,5 +108,6 @@ polosData.forEach(polo => {
         this.openPopup();
     });
 });
+
 
 
