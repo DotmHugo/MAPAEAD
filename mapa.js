@@ -67,7 +67,7 @@ const polosData = [
         info: "Avenida Marechal Mascarenhas de Moraes, 2235, Bento Ferreira.<br><br><strong>02/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>04/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>06/12, às 8h30: Biblioteca - Sala 5104 - 1º Andar</strong><br><strong>09/12, às 18h30: Biblioteca - Sala 5104 - 1º Andar</strong>"
     },
     {
-        name: "Polo Fortaleza/CE",
+        name: "Polo Fortalezaa/CE",
         lat: -3.7319,
         lng: -38.5267,
         info: "Centro de Formação Profissional Antônio Urbano de Almeida, Avenida Padre Ibiapina, 1280, Fortaleza.<br><br><strong>02/12, às 18h30: SALA C1 - Próximo a Portaria 1</strong><br><strong>04/12, às 18h30: Sala C1 - próximo a Portaria 1</strong><br><strong>06/12, às 8h30: Sala C1 - próximo a Portaria 1</strong><br><strong>09/12, às 18h30: Sala C1 - próximo a Portaria 1</strong>"
@@ -108,3 +108,4 @@ polosData.forEach(polo => {
         this.openPopup();
     });
 });
+
