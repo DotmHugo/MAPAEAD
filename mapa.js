@@ -58,7 +58,7 @@ const polosData = [
         name: "Polo Salvador/BA",
         lat: -12.93873,
         lng: -38.386047,
-        info: "Centro Universitário SENAI CIMATEC, Av Orlando Gomes, 1845, Piatã, Salvador/BA.<br><br><strong>02/12, às 18h30: Salas 2.1.6 e 2.1.2</strong><br><strong>04/12, às 18h30: Salas 2.1.6 e 2.1.2</strong><br><strong>06/12, às 8h30: Salas 2.1.6 e 2.1.2</strong><br><strong>09/12, às 18h30: Salas 2.1.6 e 2.1.4</strong>"
+        info: "Centro Universitário SENAI CIMATEC, Av Orlando Gomes, 1845, Piatã, Salvador/BA.<br><br><strong>02/12, às 18h30: Salas 2.1.6 e 2.1.2</strong><br><strong>04/12, às 18h30: Salas 2.1.2 e 2.1.3</strong><br><strong>06/12, às 8h30: Salas 2.2.4 e 2.2.6</strong><br><strong>09/12, às 18h30: Salas 2.1.2 e 2.1.4</strong>"
     },
     {
         name: "Polo Vitória/ES",
